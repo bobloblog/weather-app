@@ -1,0 +1,48 @@
+0	tornado			thunderstorm.png				thunderstorm.wav		0
+1	tropical storm		thunderstorm.png 				heavyrain.wav		0
+2	hurricane			thunderstorm.png				heavyrain.wav		0
+3	severe thunderstorms		thunderstorm.png 				thunderstorm.wav		0
+4	thunderstorms		thunderstorm.png				thunderstorm.wav		0
+5	mixed rain and snow		winterymix.png				lightrain.wav		0
+6	mixed rain and sleet		winterymix.png				lightrain.wav		0
+7	mixed snow and sleet		winterymix.png				lightrain.wav		0
+8	freezing drizzle		winterymix.png				lightrain.wav		0
+9	drizzle			lightrain.png				lightrain.wav		0
+10	freezing rain		winterymix.png				lightrain.wav		0
+11	showers			showers.png				heavyrain.wav		0
+12	showers			showers.png				heavyrain.wav		0
+13	snow flurries		flurries.png					snow.wav			0
+14	light snow showers		lightsnow.png				snow.wav			0
+15	blowing snow		heavysnow.png				wind.wav			0
+16	snow			heavysnow.png				snow.wav			0
+17	hail			hail.png					hail.wav			0
+18	sleet			winterymix.png				lightrain.wav		0
+19	dust			dust.png (fog, but brown)			birds.wav			0
+20	foggy			foggy.png					crows.wav			0
+21	haze			haze.png(fog, but orange)			birds.wav			0
+22	smoky			haze.png					birds.wav			0
+23	blustery			wind.png					wind.wav			0
+24	windy			wind.png					wind.wav			0
+25	cold			blank.png					birds.wav			0
+26	cloudy			cloudy.png					birds.wav			0
+27	mostly cloudy (night)		cloudy.png					birds.wav			0
+28	mostly cloudy (day)		cloudy.png					birds.wav			0
+29	partly cloudy (night)		partlycloudy.png				birds.wav			0
+30	partly cloudy (day)		partlycloudy.png				birds.wav			0
+31	clear (night)			blank.png					crickets.wav		0
+32	sunny			blank.png					birds.wav			0
+33	fair (night)			blank.png					crickets.wav		0
+34	fair (day)			blank.png					birds.wav			0
+35	mixed rain and hail		rain.png + hail.png				hail.wav			0
+36	hot			blank.png					birds.wav			0		
+37	isolated thunderstorms		thunderstorm.png				thunderstorm.wav		0
+38	scattered thunderstorms	thunderstorm.png				thunderstorm.wav		0
+39	scattered thunderstorms	thunderstorm.png				thunderstorm.wav		0
+40	scattered showers		showers.png				heavyrain.wav		0
+41	heavy snow			heavysnow.png				snow.wav			0
+42	scattered snow showers	lightsnow.png				snow.wav			0
+43	heavy snow			heavysnow.png				snow.wav			0
+44	partly cloudy		partlycloudy.png				birds.wav			0
+45	thundershowers		thunderstorm.png				thundershower.wav		0
+46	snow showers		lightsnow.png				snow.wav			0
+47	isolated thundershowers	thunderstorm.png				thundershower.wav		0
